@@ -8,8 +8,8 @@ The objective is to identify key factors that contribute to successful game laun
 The goal is to maximize game sales, increase market share, and optimize return on investment (ROI) for gaming companies.</p>
 
 <b>Tools:</b>
-Jupyter Notebook, Mirosoft Word, Microsoft Excel, Microsoft Powerpoint
+<p>Jupyter Notebook, Mirosoft Word, Microsoft Excel, Microsoft Powerpoint</p>
 
 <b><u>Data and Source:</u></b>
-Kaggle: <a> "https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download" </a>
-Data originated from vgchartz.com
+<p>Kaggle: <a> "https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download" </a></p>
+<p>Data originated from vgchartz.com</p>
