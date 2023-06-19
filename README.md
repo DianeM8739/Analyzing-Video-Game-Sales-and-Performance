@@ -11,5 +11,5 @@ The goal is to maximize game sales, increase market share, and optimize return o
 <p>Jupyter Notebook, Mirosoft Word, Microsoft Excel, Microsoft Powerpoint</p>
 
 <b><u>Data and Source:</u></b>
-<p>Kaggle: <a> "https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download" </a></p>
+<br>Kaggle: <a> "https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download" </a>
 <p>Data originated from vgchartz.com</p>
