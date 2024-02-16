@@ -1,5 +1,5 @@
-# Capstone-Project-3
-<b>Analyzing Video Game Sales and Performance</b>
+
+# <b>Analyzing Video Game Sales and Performance</b>
 <b>Overview</b>
 
 <b><u>Business Objective</u></b>
